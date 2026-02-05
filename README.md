@@ -1,4 +1,4 @@
-DSA Using C 🚀
+### DSA Using C 🚀
 
 This repository contains my **day-by-day learning of Data Structures and Algorithms (DSA) using the C programming language**.  
 The focus is on **strong fundamentals, clear logic, and understanding time complexity** with practical C programs.
