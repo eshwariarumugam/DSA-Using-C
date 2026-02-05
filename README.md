@@ -33,38 +33,60 @@ Execution time does **not depend on input size**.
 
 **File:** `constant_time.c`
 
-✅ O(n) – Linear Time
-Execution time increases linearly with input size.
-Files:
-Linear_time.c
-Maximum_element.c
-Count_elements.c
-Examples include:
-Looping through elements
-Finding the maximum element in an array
-Counting the number of elements
-✅ O(n²) – Quadratic Time
-Execution time increases quadratically due to nested loops.
-File: Quadratic_time.c
+### ✅ O(n) – Linear Time Complexity
+Execution time **increases linearly** with the size of the input.
 
-🧪 Programs Included
-File Name
-Description
-constant_time.c
-Example of O(1) time complexity
-Linear_time.c
-Example of O(n) loop
-Maximum_element.c
-Find maximum element in an array
-Count_elements.c
-Count number of elements
-Quadratic_time.c
-Nested loop (O(n²))
-🛠️ Language Used
-C Programming Language
-🎯 Learning Goal
-Build a strong DSA foundation
-Understand how algorithm performance scales
-Improve problem-solving skills using C
+If the input size grows, the number of operations grows in the same proportion.
 
-⭐ This repository will be updated regularly as I continue learning DSA.
+#### 📂 Files
+- `Linear_time.c`
+- `Maximum_element.c`
+- `Count_elements.c`
+
+#### 🔍 Examples Covered
+- Finding the maximum element in an array
+- Counting the number of elements in an array
+- 
+### ✅ O(n²) – Quadratic Time Complexity
+Execution time **increases quadratically** with the size of the input.
+
+This type of time complexity usually occurs when **nested loops** are used.
+
+#### 📂 File
+- `Quadratic_time.c`
+
+#### 🔍 Explanation
+For an input of size `n`, the inner loop runs `n` times for each iteration of the outer loop.  
+Total operations ≈ `n × n`.
+
+## 🧪 Programs Included (Day 1)
+
+| File Name            | Time Complexity | Description |
+|----------------------|----------------|-------------|
+| `constant_time.c`    | O(1)           | Prints a value (constant time execution) |
+| `Linear_time.c`      | O(n)           | Loop iterating through elements |
+| `Maximum_element.c`  | O(n)           | Finds maximum element in an array |
+| `Count_elements.c`   | O(n)           | Counts number of elements in an array |
+| `Quadratic_time.c`   | O(n²)          | Nested loop example |.
+
+## 🛠️ Language Used
+- **C Programming Language**
+
+---
+
+## 🎯 Learning Objective
+- Build a strong foundation in Data Structures and Algorithms
+- Understand how algorithm performance scales using Big-O notation
+- Improve logical thinking and problem-solving skills using C
+
+---
+
+## 📌 Notes
+- Each program is written with beginner-friendly logic
+- Time complexity is analyzed for every example
+- This repository follows a **day-by-day learning approach**
+
+---
+
+⭐ This repository will be updated regularly as I continue learning DSA step by step.
+
