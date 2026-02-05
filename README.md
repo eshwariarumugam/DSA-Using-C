@@ -44,9 +44,10 @@ If the input size grows, the number of operations grows in the same proportion.
 - `Count_elements.c`
 
 #### 🔍 Examples Covered
+-Iterating through elements using a loop
 - Finding the maximum element in an array
 - Counting the number of elements in an array
-- 
+
 ### ✅ O(n²) – Quadratic Time Complexity
 Execution time **increases quadratically** with the size of the input.
 
@@ -68,6 +69,7 @@ Total operations ≈ `n × n`.
 | `Maximum_element.c`  | O(n)           | Finds maximum element in an array |
 | `Count_elements.c`   | O(n)           | Counts number of elements in an array |
 | `Quadratic_time.c`   | O(n²)          | Nested loop example |.
+|---------------------------------------
 
 ## 🛠️ Language Used
 - **C Programming Language**
