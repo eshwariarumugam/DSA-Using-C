@@ -44,7 +44,7 @@ If the input size grows, the number of operations grows in the same proportion.
 - `Count_elements.c`
 
 #### 🔍 Examples Covered
--Iterating through elements using a loop
+- Iterating through all elements of an array
 - Finding the maximum element in an array
 - Counting the number of elements in an array
 
