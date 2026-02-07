@@ -77,7 +77,7 @@ Total operations ≈ `n × n`.
 - Counting elements in an array
 - Sum of array elements
 - Introduction to pointers
-- Pointer arithmetic
+- arr,&arr,&arr[0]
 - Finding maximum element using pointers
 - Reversing an array using pointers
 - Understanding `arr`, `&arr`, and `&arr[0]`
@@ -94,7 +94,7 @@ Total operations ≈ `n × n`.
 | `pointer_basic.c`            | O(1)           | Prints value and address using pointer |
 | `array_using_pointer.c`      | O(n)           | Prints array elements using pointer arithmetic |
 | `sum_of_array.c`             | O(n)           | Calculates sum of array elements |
-| `print_value_pointer.c`      | O(1)           | Prints value using pointer |
+| `print arr_&arr_&arr[0].c`      | O(1)           | Prints arr,&arr,&arr[0] using pointer |
 | `max_element_pointer.c`      | O(n)           | Finds maximum element using pointer |
 | `reverse_array_pointer.c`    | O(n)           | Prints array in reverse using pointers |
 | `arr_address_demo.c`         | O(1)           | Demonstrates `arr`, `&arr`, and `&arr[0]` |
