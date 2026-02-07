@@ -70,7 +70,47 @@ Total operations ≈ `n × n`.
 | `Count_elements.c`   | O(n)           | Counts number of elements in an array |
 | `Quadratic_time.c`   | O(n²)          | Nested loop example |.
 |---------------------------------------
+# 📘 Day 2 – Arrays & Pointers in C
 
+## 📌 Topics Covered
+- Array traversal
+- Counting elements in an array
+- Sum of array elements
+- Introduction to pointers
+- Pointer arithmetic
+- Finding maximum element using pointers
+- Reversing an array using pointers
+- Understanding `arr`, `&arr`, and `&arr[0]`
+- Time Complexity analysis
+
+---
+
+## 🧪 Programs Included (Day 2)
+
+| File Name                     | Time Complexity | Description |
+|------------------------------|----------------|-------------|
+| `print_array.c`              | O(n)           | Prints all elements of an array |
+| `count_elements.c`           | O(n)           | Counts number of elements in an array |
+| `pointer_basic.c`            | O(1)           | Prints value and address using pointer |
+| `array_using_pointer.c`      | O(n)           | Prints array elements using pointer arithmetic |
+| `sum_of_array.c`             | O(n)           | Calculates sum of array elements |
+| `print_value_pointer.c`      | O(1)           | Prints value using pointer |
+| `max_element_pointer.c`      | O(n)           | Finds maximum element using pointer |
+| `reverse_array_pointer.c`    | O(n)           | Prints array in reverse using pointers |
+| `arr_address_demo.c`         | O(1)           | Demonstrates `arr`, `&arr`, and `&arr[0]` |
+
+---
+
+## 🧠 Key Concepts Learned
+
+### 🔹 Pointer vs Value
+- `a + i` → gives **address**
+- `*(a + i)` → gives **value at that address**
+
+### 🔹 Why `%p` is used
+- `%p` is used to print **memory addresses**
+- Always used with pointers
+  
 ## 🛠️ Language Used
 - **C Programming Language**
 
@@ -80,7 +120,10 @@ Total operations ≈ `n × n`.
 - Build a strong foundation in Data Structures and Algorithms
 - Understand how algorithm performance scales using Big-O notation
 - Improve logical thinking and problem-solving skills using C
-
+- Strong understanding of array
+- Clear concept of pointers and dereferencing
+- Confidence in pointer arithmetic 
+- Ability to analyse time complexity of simple program
 ---
 
 ## 📌 Notes
