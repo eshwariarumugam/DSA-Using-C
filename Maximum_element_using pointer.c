@@ -13,3 +13,4 @@ int main() {
      printf("%d ", *max);
     return 0;
 }
+//Time complexity:O(n)
