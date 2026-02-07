@@ -1,4 +1,4 @@
-//print array ysing pointer
+//print array using pointer
 #include <stdio.h>
 
 int main() {
