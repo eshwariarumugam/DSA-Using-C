@@ -8,4 +8,4 @@ int main() {
      printf("%p ",&arr[0]);
      return 0;
      }
-//Time complexity:O(n)
+//Time complexity:O(1)
