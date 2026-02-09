@@ -79,8 +79,12 @@ Total operations ≈ `n × n`.
 - Introduction to pointers
 - arr,&arr,&arr[0]
 - Finding maximum element using pointers
+- Finding minimum element using pointers
+- sum of array element using pointers
+- Address of array element using pointers
 - Reversing an array using pointers
 - Understanding `arr`, `&arr`, and `&arr[0]`
+- 
 - Time Complexity analysis
 
 ---
@@ -98,6 +102,7 @@ Total operations ≈ `n × n`.
 | `max_element_pointer.c`      | O(n)           | Finds maximum element using pointer |
 | `reverse_array_pointer.c`    | O(n)           | Prints array in reverse using pointers |
 | `arr_address_demo.c`         | O(1)           | Demonstrates `arr`, `&arr`, and `&arr[0]` |
+|`minimum_element_
 
 ---
 
