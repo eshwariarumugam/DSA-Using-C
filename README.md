@@ -103,12 +103,12 @@ Total operations ≈ `n × n`.
 | `reverse_array_pointer.c`    | O(n)           | Prints array in reverse using pointers |
 | `arr_address_demo.c`         | O(1)           | Demonstrates `arr`, `&arr`, and `&arr[0]` |
 |`minimum_element__pointer.c`   |O(n) 
-         |Find minimum element using pointers      | 
-|`sum_array_using_pointers      |O(n)
+         | Find minimum element using pointers      | 
+|`sum_array_using_pointers.c`     |O(n)
          | Calculate sum of array element using 
     pointers  |
 |`address_array_using_pointer.c`|O(n)
-         |print address of array elements using 
+         | Print address of array elements using 
 pointers      |
 
 ---
