@@ -69,7 +69,8 @@ Total operations ≈ `n × n`.
 | `Maximum_element.c`  | O(n)           | Finds maximum element in an array |
 | `Count_elements.c`   | O(n)           | Counts number of elements in an array |
 | `Quadratic_time.c`   | O(n²)          | Nested loop example |.
-|---------------------------------------
+
+---
 # 📘 Day 2 – Arrays & Pointers in C
 
 ## 📌 Topics Covered
@@ -83,8 +84,7 @@ Total operations ≈ `n × n`.
 - sum of array element using pointers
 - Address of array element using pointers
 - Reversing an array using pointers
-- Understanding `arr`, `&arr`, and `&arr[0]`
-- 
+- Understanding `arr`, `&arr`, and `&arr[0]` 
 - Time Complexity analysis
 
 ---
@@ -109,7 +109,8 @@ Total operations ≈ `n × n`.
     pointers  |
 |`address_array_using_pointer.c`|O(n)
          |print address of array elements using 
-      pointers|
+pointers      |
+
 ---
 
 ## 🧠 Key Concepts Learned
