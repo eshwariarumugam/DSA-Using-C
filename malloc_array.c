@@ -18,4 +18,4 @@ for (int i=0;i<n;i++){
  free(a);
 return 0;
 }      
-   
+ //Time complexity:O(n)  
