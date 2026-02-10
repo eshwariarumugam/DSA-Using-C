@@ -108,7 +108,7 @@ Total operations ≈ `n × n`.
 
 ---
 
-# 📅 Day 4 – Dynamic Memory Allocation in C
+# 📅 Day 3 – Dynamic Memory Allocation in C
 ### 📌 Topics Covered
 - Difference between static and dynamic memory
 - Heap memory vs Stack memory
