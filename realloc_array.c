@@ -31,6 +31,7 @@ for(int i=0;i<new_size;i++){
 free(a);
 return 0;
 }  
+//Time complexity:O(n)
 
 
     
