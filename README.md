@@ -108,6 +108,26 @@ Total operations ≈ `n × n`.
 
 ---
 
+# 📅 Day 4 – Dynamic Memory Allocation in C
+### 📌 Topics Covered
+- Difference between static and dynamic memory
+- Heap memory vs Stack memory
+- Dynamic memory allocation
+-malloc() function
+- calloc() function
+- realloc() function
+- free() function
+- Handling NULL pointer
+- Memory leak prevention
+### 🧪 Programs Practiced
+| File Name                  | Time Complexity | Description                                      |
+|---------------------------|-----------------|--------------------------------------------------|
+| `malloc_array.c`     | O(n)            |Allocates memory using malloc and print array  elements |
+| `calloc_sum.c`     | O(n)            | Allocates memory using calloc and finds sum of elements |
+| `realloc_array.c` | O(n)            | Resizes array using realloc and prints updated elements |
+
+---
+
 ## 🧠 Key Concepts Learned
 
 ### 🔹 Pointer vs Value
