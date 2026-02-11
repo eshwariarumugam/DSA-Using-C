@@ -119,12 +119,39 @@ Total operations ≈ `n × n`.
 - free() function
 - Handling NULL pointer
 - Memory leak prevention
+
+---
 ### 🧪 Programs Practiced
 | File Name                  | Time Complexity | Description                                      |
 |---------------------------|-----------------|--------------------------------------------------|
 | `malloc_array.c`     | O(n)            |Allocates memory using malloc and print array  elements |
 | `calloc_sum.c`     | O(n)            | Allocates memory using calloc and finds sum of elements |
 | `realloc_array.c` | O(n)            | Resizes array using realloc and prints updated elements |
+
+---
+
+# 📅 Day 5 – Introduction to Linked List (Using C)
+
+Today I implemented my first **Singly Linked List** programs using C.
+
+This marks the beginning of learning dynamic data structures in DSA.
+
+---
+
+## 📚 Topics Covered
+
+- What is a Linked List?
+- Why we use `struct` in C
+- Why `struct node *next` is used
+- Dynamic memory allocation using `malloc()`
+- Traversing a linked list
+- Counting number of nodes
+
+---
+| File Name                  | Time Complexity | Description                                      |
+|---------------------------|-----------------|--------------------------------------------------|
+| `created_linked_list.c`     | O(n)            |Creates and prints a singly linked list |
+| `count_nodes.c`     | O(n)            | Counts the number of nodes in a linked list |
 
 ---
 
