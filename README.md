@@ -130,7 +130,7 @@ Total operations ≈ `n × n`.
 
 ---
 
-# 📅 Day 5 – Introduction to Linked List (Using C)
+# 📅 Day 4 – Introduction to Linked List (Using C)
 
 Today I implemented my first **Singly Linked List** programs using C.
 
