@@ -119,6 +119,7 @@ Total operations ≈ `n × n`.
 - free() function
 - Handling NULL pointer
 - Memory leak prevention
+  
 
 ---
 ### 🧪 Programs Practiced
@@ -127,6 +128,7 @@ Total operations ≈ `n × n`.
 | `malloc_array.c`     | O(n)            |Allocates memory using malloc and print array  elements |
 | `calloc_sum.c`     | O(n)            | Allocates memory using calloc and finds sum of elements |
 | `realloc_array.c` | O(n)            | Resizes array using realloc and prints updated elements |
+| `dynamic_2d_array.c`     | O(r×c)            |Allocates memory using malloc and print  2d array  elements |
 
 ---
 
