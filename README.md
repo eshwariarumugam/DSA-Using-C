@@ -153,6 +153,7 @@ This marks the beginning of learning dynamic data structures in DSA.
 | File Name                  | Time Complexity | Description                                      |
 |---------------------------|-----------------|--------------------------------------------------|
 | `created_linked_list.c`     | O(n)            |Creates and prints a singly linked list |
+| `created_linked_list_n_nodes.c`     | O(n)            |Creates and prints a singly linked list |
 | `count_nodes.c`     | O(n)            | Counts the number of nodes in a linked list |
 
 ---
