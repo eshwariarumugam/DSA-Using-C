@@ -24,7 +24,7 @@ The focus is on **strong fundamentals, clear logic, and understanding time compl
 - Big-O Notation
 - Constant, Linear, and Quadratic Time Complexity
 
----
+
 
 ## ⏱️ Time Complexity Programs
 
@@ -87,7 +87,7 @@ Total operations ≈ `n × n`.
 - Understanding `arr`, `&arr`, and `&arr[0]` 
 - Time Complexity analysis
 
----
+
 
 ## 🧪 Programs Included (Day 2)
 
@@ -121,7 +121,7 @@ Total operations ≈ `n × n`.
 - Memory leak prevention
   
 
----
+
 ### 🧪 Programs Practiced
 | File Name                  | Time Complexity | Description                                      |
 |---------------------------|-----------------|--------------------------------------------------|
@@ -138,7 +138,7 @@ Today I implemented my first **Singly Linked List** programs using C.
 
 This marks the beginning of learning dynamic data structures in DSA.
 
----
+
 
 ## 📚 Topics Covered
 
@@ -149,7 +149,8 @@ This marks the beginning of learning dynamic data structures in DSA.
 - Traversing a linked list
 - Counting number of nodes
 
----
+
+###  🧪 Programs Practiced
 | File Name                  | Time Complexity | Description                                      |
 |---------------------------|-----------------|--------------------------------------------------|
 | `created_linked_list.c`     | O(n)            |Creates and prints a singly linked list |
@@ -158,6 +159,21 @@ This marks the beginning of learning dynamic data structures in DSA.
 
 ---
 
+### Day 5 📌 Singly Linked List – Insertion Practice (C)
+## 📖 Overview
+ - Creating a linked list with n nodes
+ - Inserting a node at the beginning
+ - Inserting a node at the end
+ - Printing the linked list
+ - Freeing allocated memory properly
+
+### 🧪 Programs Practiced 
+| File Name                  | Time Complexity | Description                                      |
+|---------------------------|-----------------|--------------------------------------------------|
+| `linked_list_insert_beginning.c`     |   Insertion: O(1)Traversal/Print: O(n)       |Inserts nodes at the beginning and prints the singly linked |
+| `linked_list_insert_end.c`     | Insertion: O(n)Traversal/Print: O(n)           | Inserts nodes at the beginning and prints the singly linked |
+
+---
 ## 🧠 Key Concepts Learned
 
 ### 🔹 Pointer vs Value
