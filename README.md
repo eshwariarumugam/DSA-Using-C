@@ -159,21 +159,25 @@ This marks the beginning of learning dynamic data structures in DSA.
 
 ---
 
-### Day 5 📌 Singly Linked List – Insertion Practice (C)
+###  Day 5 📌 Singly Linked List – Insertion Practice (C)
 ## 📖 Overview
  - Creating a linked list with n nodes
  - Inserting a node at the beginning
  - Inserting a node at the end
+ - Inserting a node at specific position
  - Printing the linked list
  - Freeing allocated memory properly
 
 ### 🧪 Programs Practiced 
 | File Name                  | Time Complexity | Description                                      |
 |---------------------------|-----------------|--------------------------------------------------|
-| `linked_list_insert_beginning.c`     |   Insertion: O(1)Traversal/Print: O(n)       |Inserts nodes at the beginning and prints the singly linked |
-| `linked_list_insert_end.c`     | Insertion: O(n)Traversal/Print: O(n)           | Inserts nodes at the beginning and prints the singly linked |
+| `linked_list_insert_beginning.c`     |   Insertion: O(1)Traversal/Print: O(n)       |Inserts nodes at the beginning and prints the singly linked list |
+| `linked_list_insert_end.c`     | Insertion: O(n)Traversal/Print: O(n)           | Inserts nodes at the beginning and prints the singly linked list |
+|`single_linked_list_insert_at_position.c`     | Insertion:O(n)Traversal/Print: O(n)           | Inserts nodes at the specific position and prints the singly linked list |
 
 ---
+
+
 ## 🧠 Key Concepts Learned
 
 ### 🔹 Pointer vs Value
