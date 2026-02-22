@@ -181,6 +181,8 @@ This marks the beginning of learning dynamic data structures in DSA.
 ## 📖 Overview
  - Creating a linked list with n nodes
  - Deletion  a node at the beginning
+ - deletion a node at the given position
+ - deletion a node by value
  - Printing the linked list
  - Freeing allocated memory properly
 
@@ -188,7 +190,10 @@ This marks the beginning of learning dynamic data structures in DSA.
 | File Name                  | Time Complexity | Description                                      |
 |---------------------------|-----------------|--------------------------------------------------|
 | `deletion_at_beginning.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes at the beginning and prints the singly linked list |
+| `deletion_at_position.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes at the given position and prints the singly linked list |
+| `deletion_by_value.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes by value and prints the singly linked list |
 
+---
 ## 🧠 Key Concepts Learned
 
 ### 🔹 Pointer vs Value
