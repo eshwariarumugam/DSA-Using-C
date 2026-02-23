@@ -192,6 +192,7 @@ This marks the beginning of learning dynamic data structures in DSA.
 | `deletion_at_beginning.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes at the beginning and prints the singly linked list |
 | `deletion_at_position.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes at the given position and prints the singly linked list |
 | `deletion_by_value.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes by value and prints the singly linked list |
+| `deletion_at_end.c`     |   Deletion: O(1)Traversal/Print: O(n)       |Deletes nodes at end  and prints the singly linked list |
 
 ---
 ## 🧠 Key Concepts Learned
